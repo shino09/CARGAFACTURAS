@@ -5,7 +5,7 @@ Consume web service para insertar facturas xml.
 Da formato a archivo xls.
 Convierte archivo xls a xlsx.
 Inserta facturas xlsx, en bd utilizando OPENROWSET(Microsoft.ACE.OLEDB.12.0).
-Valida  datos factuas xlsx con procedimientos almacenados, (nulos,tipo datos, largo, fechas,rut,etc), utilizando web services.
+Valida  datos factuas xlsx con procedimientos almacenados, (nulos,tipo datos, largo, fechas,rut,etc), utilizando Web services.
 Errores de validacion son mostrados en un archivo csv.
 Elimina archivos al finalizar y tabla temporales.
 Envia email al usuario si la carga se realiza correctamente o tiene errores.
