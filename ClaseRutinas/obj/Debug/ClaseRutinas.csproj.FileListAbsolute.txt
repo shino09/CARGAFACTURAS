@@ -1,0 +1,78 @@
+E:\BRANCHE\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\BRANCHE\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\BRANCHE\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\BRANCHE\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\BRANCHE\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\BRANCHE\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\ClaseRutinas\obj\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\ClaseRutinas\bin\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\ClaseRutinas\bin\Debug\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\ClaseRutinas\obj\Debug\ClaseRutinas.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\ClaseRutinas\obj\Debug\ClaseRutinas.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\ClaseRutinas\obj\Debug\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\ClaseRutinas\obj\Debug\ClaseRutinas.pdb

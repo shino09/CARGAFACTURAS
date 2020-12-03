@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WEB_CLIENTE.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WEB_CLIENTE_WS_GET_TYPE_WS_TEST" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:53795/WS_TEST.asmx</Value>
+    </Setting>
+    <Setting Name="WEB_CLIENTE_WS_04003_WS_Dim_04003_Registrar_inf_adicional" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:60674/WS_Dim_04003_Registrar_inf_adicional.asmx</Value>
+    </Setting>
+    <Setting Name="WEB_CLIENTE_WS_04002_WS_Dim_04002_Registrar_facturas_XML" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:62784/WS_Dim_04002_Registrar_facturas_XML.asmx</Value>
+    </Setting>
+    <Setting Name="rutaXml1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DescargaXml</Value>
+    </Setting>
+    <Setting Name="rutaXls" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ArchivosXls</Value>
+    </Setting>
+    <Setting Name="rutaXml" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ArchivosXml</Value>
+    </Setting>
+    <Setting Name="rutaErrores" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ArchivoCsv</Value>
+    </Setting>
+    <Setting Name="rutaComprimidos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ArchivosComprimidos</Value>
+    </Setting>
+    <Setting Name="rutaServidor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\172.27.4.25\archivos\</Value>
+    </Setting>
+    <Setting Name="rutaXlsOrigen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ArchivosXls</Value>
+    </Setting>
+    <Setting Name="WEB_CLIENTE_WS_TEST_WS_TEST" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:53795/WS_TEST.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

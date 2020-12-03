@@ -1,0 +1,1770 @@
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WebGrease.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\Proyectos\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe.config
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.rsp
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe.config
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.rsp
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Console.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.rsp
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WebGrease.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nanowin\Documents\DIMENSION\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\WebGrease.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\Proyectos\WEB_CLIENTEVERSION2\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.exe.config
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csc.rsp
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.exe.config
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\csi.rsp
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Console.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\vbc.rsp
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\WebGrease.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Helpers.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Mvc.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Optimization.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.Razor.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+C:\Users\fisla\Desktop\FUENTES APP_CLI\WEB_CLIENTE\WEB_CLIENTE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\WebGrease.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\Proyectos\WEB_CLIENTE_SVN\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\BRANCHE\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\BRANCHE\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\BRANCHE\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\BRANCHE\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\BRANCHE\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\BRANCHE\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\BRANCHE\WEB_CLIENTE\bin\EPPlus.dll
+E:\BRANCHE\WEB_CLIENTE\bin\InterfazCavali.dll
+E:\BRANCHE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BRANCHE\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\BRANCHE\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\BRANCHE\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\BRANCHE\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\BRANCHE\WEB_CLIENTE\bin\WebGrease.dll
+E:\BRANCHE\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\BRANCHE\WEB_CLIENTE\bin\EPPlus.xml
+E:\BRANCHE\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\BRANCHE\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\BRANCHE\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\BRANCHE\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\BRANCHE\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\BRANCHE\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\BRANCHE\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 13\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN 14\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN17\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHES\SVN22\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN23\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN24\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN25\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN26\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN27\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN28\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Aspose.Cells.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.IO.Compression.ZipFile.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Aspose.Cells.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN32\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Aspose.Cells.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.IO.Compression.ZipFile.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Aspose.Cells.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\WEB_CLIENTE.dll.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\csc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\csc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\csc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\csi.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\csi.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\csi.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.AppContext.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Collections.Immutable.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.IO.Compression.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.IO.Pipes.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Reflection.Metadata.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.AccessControl.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.Claims.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\vbc.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\vbc.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\vbc.rsp
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\roslyn\VBCSCompiler.exe.config
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Antlr3.Runtime.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Aspose.Cells.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\ClaseRutinas.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\CsvHelper.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\EPPlus.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Newtonsoft.Json.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\OfficeOpenXml.Extends.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.IO.Compression.ZipFile.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.IO.FileSystem.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.IO.Packaging.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.ValueTuple.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Helpers.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Mvc.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Optimization.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.WebPages.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.WebPages.Razor.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\WebGrease.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\ClaseRutinas.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Aspose.Cells.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\CsvHelper.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\EPPlus.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.ValueTuple.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Helpers.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Mvc.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Optimization.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.WebPages.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.WebPages.Deployment.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Web.WebPages.Razor.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Newtonsoft.Json.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Antlr3.Runtime.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.Helpers.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.Mvc.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.Optimization.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.WebPages.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CoreCompileInputs.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csproj.CopyComplete
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.pdb
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\obj\Debug\WEB_CLIENTE.csprojAssemblyReference.cache
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Renci.SshNet.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\Renci.SshNet.xml
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\SharpCifs.Std.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Console.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Net.NameResolution.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Net.NetworkInformation.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Net.Sockets.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Security.Cryptography.Algorithms.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\System.Security.Cryptography.Primitives.dll
+E:\WEB_CLIENTE_OCTUBRE\BRANCHESSOPORTE\SVN33VERSION2\WEB_CLIENTE\bin\SharpCifs.Std.xml

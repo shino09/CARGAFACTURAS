@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://cesion.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://cesion.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cesion.org/">
+      <s:element name="GetTipoParticipante">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetTipoParticipanteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTipoParticipanteResult" type="tns:ArrayOfParametro" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfParametro">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Parametro" nillable="true" type="tns:Parametro" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Parametro">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="codigo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="descripcion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GuardarInfoAdiccional">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaInfoFacturas" type="tns:ArrayOfInfoFacturas" />
+            <s:element minOccurs="0" maxOccurs="1" name="listaInfoCuotas" type="tns:ArrayOfInfoCuotas" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfInfoFacturas">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="InfoFacturas" nillable="true" type="tns:InfoFacturas" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InfoFacturas">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="providerRuc" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="series" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="numeration" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="authorizationNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="invoiceType" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="expirationDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="department" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="province" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="district" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="addressSupplier" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="acqDepartment" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="acqProvince" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="acqDistrict" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="addressAcquirer" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="typePayment" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="numberQuota" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="deliverDateAcq" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="aceptedDate" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="paymentDate" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="netAmount" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="other1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="other2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="additionalField1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="additionalField2" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInfoCuotas">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="InfoCuotas" nillable="true" type="tns:InfoCuotas" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InfoCuotas">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="providerRuc" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="series" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="numeration" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="number" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="netAmount" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="paymentDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GuardarInfoAdiccionalResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GuardarInfoAdiccionalResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarContenidoExcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="nombreArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="nombreHoja" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="rutaArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="rutaArchivoCompleta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="extensionArchivo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarContenidoExcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GuardarContenidoExcelResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarExcelBD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id_Trans" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarExcelBDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidarExcelBDResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetErroresValidacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTrans" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetErroresValidacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetErroresValidacionResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarInfoAdiccional2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="listaInfoFacturas" type="tns:ArrayOfInfoFacturas" />
+            <s:element minOccurs="0" maxOccurs="1" name="listaInfoCuotas" type="tns:ArrayOfInfoCuotas" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarInfoAdiccional2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GuardarInfoAdiccional2Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInfoAdiccionalFacturas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTrans" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInfoAdiccionalFacturasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetInfoAdiccionalFacturasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInfoAdiccionalCuotas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idFactura" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInfoAdiccionalCuotasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetInfoAdiccionalCuotasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VaciarTablas">
+        <s:complexType />
+      </s:element>
+      <s:element name="VaciarTablasResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetErroresValidacionVIEJO">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTrans" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetErroresValidacionVIEJOResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetErroresValidacionVIEJOResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetTipoParticipanteSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTipoParticipante" />
+  </wsdl:message>
+  <wsdl:message name="GetTipoParticipanteSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTipoParticipanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="GuardarInfoAdiccionalSoapIn">
+    <wsdl:part name="parameters" element="tns:GuardarInfoAdiccional" />
+  </wsdl:message>
+  <wsdl:message name="GuardarInfoAdiccionalSoapOut">
+    <wsdl:part name="parameters" element="tns:GuardarInfoAdiccionalResponse" />
+  </wsdl:message>
+  <wsdl:message name="GuardarContenidoExcelSoapIn">
+    <wsdl:part name="parameters" element="tns:GuardarContenidoExcel" />
+  </wsdl:message>
+  <wsdl:message name="GuardarContenidoExcelSoapOut">
+    <wsdl:part name="parameters" element="tns:GuardarContenidoExcelResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidarExcelBDSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidarExcelBD" />
+  </wsdl:message>
+  <wsdl:message name="ValidarExcelBDSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidarExcelBDResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetErroresValidacionSoapIn">
+    <wsdl:part name="parameters" element="tns:GetErroresValidacion" />
+  </wsdl:message>
+  <wsdl:message name="GetErroresValidacionSoapOut">
+    <wsdl:part name="parameters" element="tns:GetErroresValidacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="GuardarInfoAdiccional2SoapIn">
+    <wsdl:part name="parameters" element="tns:GuardarInfoAdiccional2" />
+  </wsdl:message>
+  <wsdl:message name="GuardarInfoAdiccional2SoapOut">
+    <wsdl:part name="parameters" element="tns:GuardarInfoAdiccional2Response" />
+  </wsdl:message>
+  <wsdl:message name="GetInfoAdiccionalFacturasSoapIn">
+    <wsdl:part name="parameters" element="tns:GetInfoAdiccionalFacturas" />
+  </wsdl:message>
+  <wsdl:message name="GetInfoAdiccionalFacturasSoapOut">
+    <wsdl:part name="parameters" element="tns:GetInfoAdiccionalFacturasResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetInfoAdiccionalCuotasSoapIn">
+    <wsdl:part name="parameters" element="tns:GetInfoAdiccionalCuotas" />
+  </wsdl:message>
+  <wsdl:message name="GetInfoAdiccionalCuotasSoapOut">
+    <wsdl:part name="parameters" element="tns:GetInfoAdiccionalCuotasResponse" />
+  </wsdl:message>
+  <wsdl:message name="VaciarTablasSoapIn">
+    <wsdl:part name="parameters" element="tns:VaciarTablas" />
+  </wsdl:message>
+  <wsdl:message name="VaciarTablasSoapOut">
+    <wsdl:part name="parameters" element="tns:VaciarTablasResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetErroresValidacionVIEJOSoapIn">
+    <wsdl:part name="parameters" element="tns:GetErroresValidacionVIEJO" />
+  </wsdl:message>
+  <wsdl:message name="GetErroresValidacionVIEJOSoapOut">
+    <wsdl:part name="parameters" element="tns:GetErroresValidacionVIEJOResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_TESTSoap">
+    <wsdl:operation name="GetTipoParticipante">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener Tipo de participante</wsdl:documentation>
+      <wsdl:input message="tns:GetTipoParticipanteSoapIn" />
+      <wsdl:output message="tns:GetTipoParticipanteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GuardarInfoAdiccional">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Recibe listado con los datos adicionales de las facturas</wsdl:documentation>
+      <wsdl:input message="tns:GuardarInfoAdiccionalSoapIn" />
+      <wsdl:output message="tns:GuardarInfoAdiccionalSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GuardarContenidoExcel">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Guarda el contenido del xls en la bd</wsdl:documentation>
+      <wsdl:input message="tns:GuardarContenidoExcelSoapIn" />
+      <wsdl:output message="tns:GuardarContenidoExcelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidarExcelBD">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Validar el excel desde la BD</wsdl:documentation>
+      <wsdl:input message="tns:ValidarExcelBDSoapIn" />
+      <wsdl:output message="tns:ValidarExcelBDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetErroresValidacion">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtiene los errores de validacion de las Facturas</wsdl:documentation>
+      <wsdl:input message="tns:GetErroresValidacionSoapIn" />
+      <wsdl:output message="tns:GetErroresValidacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GuardarInfoAdiccional2">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Recibe listado con los datos adicionales de las facturas2</wsdl:documentation>
+      <wsdl:input message="tns:GuardarInfoAdiccional2SoapIn" />
+      <wsdl:output message="tns:GuardarInfoAdiccional2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInfoAdiccionalFacturas">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtiene los datos adicionales de las Facturas</wsdl:documentation>
+      <wsdl:input message="tns:GetInfoAdiccionalFacturasSoapIn" />
+      <wsdl:output message="tns:GetInfoAdiccionalFacturasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInfoAdiccionalCuotas">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtiene los datos adicionales de las Cuotas</wsdl:documentation>
+      <wsdl:input message="tns:GetInfoAdiccionalCuotasSoapIn" />
+      <wsdl:output message="tns:GetInfoAdiccionalCuotasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VaciarTablas">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Vaciar las tablas trans , facturas y cuotas</wsdl:documentation>
+      <wsdl:input message="tns:VaciarTablasSoapIn" />
+      <wsdl:output message="tns:VaciarTablasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetErroresValidacionVIEJO">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtiene los errores de validacion de las Facturas</wsdl:documentation>
+      <wsdl:input message="tns:GetErroresValidacionVIEJOSoapIn" />
+      <wsdl:output message="tns:GetErroresValidacionVIEJOSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_TESTSoap" type="tns:WS_TESTSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetTipoParticipante">
+      <soap:operation soapAction="http://cesion.org/GetTipoParticipante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarInfoAdiccional">
+      <soap:operation soapAction="http://cesion.org/GuardarInfoAdiccional" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarContenidoExcel">
+      <soap:operation soapAction="http://cesion.org/GuardarContenidoExcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarExcelBD">
+      <soap:operation soapAction="http://cesion.org/ValidarExcelBD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetErroresValidacion">
+      <soap:operation soapAction="http://cesion.org/GetErroresValidacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarInfoAdiccional2">
+      <soap:operation soapAction="http://cesion.org/GuardarInfoAdiccional2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInfoAdiccionalFacturas">
+      <soap:operation soapAction="http://cesion.org/GetInfoAdiccionalFacturas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInfoAdiccionalCuotas">
+      <soap:operation soapAction="http://cesion.org/GetInfoAdiccionalCuotas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VaciarTablas">
+      <soap:operation soapAction="http://cesion.org/VaciarTablas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetErroresValidacionVIEJO">
+      <soap:operation soapAction="http://cesion.org/GetErroresValidacionVIEJO" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_TESTSoap12" type="tns:WS_TESTSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetTipoParticipante">
+      <soap12:operation soapAction="http://cesion.org/GetTipoParticipante" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarInfoAdiccional">
+      <soap12:operation soapAction="http://cesion.org/GuardarInfoAdiccional" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarContenidoExcel">
+      <soap12:operation soapAction="http://cesion.org/GuardarContenidoExcel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarExcelBD">
+      <soap12:operation soapAction="http://cesion.org/ValidarExcelBD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetErroresValidacion">
+      <soap12:operation soapAction="http://cesion.org/GetErroresValidacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarInfoAdiccional2">
+      <soap12:operation soapAction="http://cesion.org/GuardarInfoAdiccional2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInfoAdiccionalFacturas">
+      <soap12:operation soapAction="http://cesion.org/GetInfoAdiccionalFacturas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInfoAdiccionalCuotas">
+      <soap12:operation soapAction="http://cesion.org/GetInfoAdiccionalCuotas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VaciarTablas">
+      <soap12:operation soapAction="http://cesion.org/VaciarTablas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetErroresValidacionVIEJO">
+      <soap12:operation soapAction="http://cesion.org/GetErroresValidacionVIEJO" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_TEST">
+    <wsdl:port name="WS_TESTSoap" binding="tns:WS_TESTSoap">
+      <soap:address location="http://localhost:53795/WS_TEST.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_TESTSoap12" binding="tns:WS_TESTSoap12">
+      <soap12:address location="http://localhost:53795/WS_TEST.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

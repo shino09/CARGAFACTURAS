@@ -1,0 +1,182 @@
+﻿@using WEB_CLIENTE.Models
+@model WEB_CLIENTE.Models.FileModel2
+
+@{
+    ViewBag.Title = "CargarFacturasAdiccional";
+}
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<!-- Pantalla cargando estilo-->
+<style type="text/css">
+    .modal2 {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 99;
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+        -moz-opacity: 0.8;
+        min-height: 100%;
+        width: 100%;
+    }
+
+    .loading {
+        font-family: Arial;
+        font-size: 10pt;
+        border: 5px solid #67CFF5;
+        width: 800px;
+        height: 400px;
+        display: none;
+        position: fixed;
+        background-color: White;
+        z-index: 999;
+    }
+</style>
+
+<div id="contanierTodo" class="container">
+
+    <div class="jumbotron">
+        <h1>CARGAR FACTURAS ADICIONALES XLSX</h1>
+    </div>
+
+    <form id="AjaxForm">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <label for="type"><b>Ingrese el Tipo de Consumidor (*)</b></label>
+            <select class="form-control" id="type" name="type"></select>
+            <span id="idErrorType" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="type"><b>Ingrese el Código del Participante (*)</b></label>
+            @Html.TextBoxFor(x => x.participantCode, new { id = "participantCode", @class = "form-control", autofocus = "autofocus",
+           oninput = "validarInputParticipantCode(this)"})
+            @Html.ValidationMessageFor(x => x.participantCode, null, new { id = "idErrorParticipantCode", @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            <label for="type"><b>Ingrese el RUC del Participante (*)</b></label>
+            <span id="idErrorRucNoValido" class="text-danger"></span>
+            <span id="idErrorRucValido" class="text-success"></span>
+            @Html.TextBoxFor(x => x.ruc, new { id = "ruc", @class = "form-control", autofocus = "autofocus", oninput = "validarInput(this)" })
+            @Html.ValidationMessageFor(x => x.ruc, null, new { id = "idErrorRuc", @class = "text-danger" })
+            <span id="idErrorRuc" class="text-danger"></span>
+            <input type="hidden" id="idErrorRuc2" value="" />
+        </div>
+
+        <label for="">Ingrese la Factura .XLS/XLSX (*)</label>
+        @Html.TextBoxFor(m => m.fileXml, new { type = "file", accept = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel", id = "fileInput" })
+        @Html.ValidationMessageFor(x => x.fileXml, null, new { id = "idErrorFileXml", @class = "text-danger" })
+
+        <div class="row">
+            <div class="col-md-4">
+                <div id="viewContent">
+                </div>
+            </div>
+            <div class="col-md-2">
+                <button type="button" id="fileButton" value="Cargar" class="col-md-6 btn btn-primary glyphicon   glyphicon-upload">Cargar</button>
+            </div>
+            <div class="col-md-6" align="center">
+                <button type="submit" id="btnSubmit" class="btn btn-success glyphicon  glyphicon-send"> Enviar</button>
+            </div>
+        </div>
+    </form>
+
+    <div class="row">
+        <div class="col-md-6">
+            @using (Html.BeginForm("Index", "Prueba", FormMethod.Post))
+            {
+                <table id="cargar_facturas" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Nombre Archivo </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                    <tbody id="DataResult"></tbody>
+                </table>
+            }
+            <span id="idErrorFileXml" class="text-danger"></span>
+        </div>
+    </div>
+
+    <input type="hidden" id="cantidadArchivos" value="" />
+    <input type="hidden" id="nombreEliminar" value="" />
+
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" id="cerrarmodalx" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title" id="tituloModal"></h4>
+                </div>
+                <div class="modal-body">
+                    <label id="resultado"></label>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="cerrarmodal" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="ModalEliminar" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Eliminar Archivo .XLS/.XLSX</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h5>¿Está seguro que desea eliminar este archivo?</h5>
+                    <h5 id="eliminarnombrearchivo"></h5>
+                </div>
+                <div class="modal-footer">
+                    <span id="mensajeEliminar" class=" text-danger"></span>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                    <button type="button" id="aceptarEliminar" class="btn btn-primary">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <iframe id="iframe" style="display:none;"></iframe>
+
+    <div class="modal fade" id="ModalErrores" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Han ocurrido errores al cargar el archivo .XLS/.XLSX</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h5>Por favor revise el archivo .CSV que se descargará a continuación, para poder ver los errores que contiene su Factura XLS.</h5>
+                    <h5 id="mostrarErrores"></h5>
+                </div>
+                <div class="modal-footer">
+                    <span id="mensajeErrores" class=" text-danger"></span>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    <button type="button" id="aceptarErrores" class="btn btn-primary">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="loading" align="center">
+    <h1>Cargando... Por favor espere.</h1>
+    <br />
+    <br />
+    <img src="~/Imagenes/Preloader_3.gif" alt="" height="120" width="120" />
+</div>
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="~/Scripts/jquery-3.1.0.min.js"></script>
+<script src="~/Scripts/jquery-2.1.1.min.js"></script>
+<script src="~/Scripts/CargarFacturasAdicional.js"></script>

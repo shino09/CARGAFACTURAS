@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://cesion/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s1="http://cavali.com.pe/ib/esb" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s2="http://cavali.com.pe/ib/esb/srv04003" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://cesion/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cesion/">
+      <s:import namespace="http://cavali.com.pe/ib/esb" />
+      <s:import namespace="http://cavali.com.pe/ib/esb/srv04003" />
+      <s:element name="RegistrarInfoAdicional">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cabecera" type="s1:CABECERA_Type" />
+            <s:element minOccurs="0" maxOccurs="1" name="consumidor" type="s2:Consumer_Type" />
+            <s:element minOccurs="0" maxOccurs="1" name="invoice" type="tns:ArrayOfInvoiceInformationAdditional_Type" />
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfInvoiceInformationAdditional_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="InvoiceInformationAdditional_Type" nillable="true" type="s2:InvoiceInformationAdditional_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="RegistrarInfoAdicionalResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegistrarInfoAdicionalResult" type="s2:MENSAJERES_Type" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cavali.com.pe/ib/esb">
+      <s:complexType name="CABECERA_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="COD_SERVICIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="APP_CONSUMIDORA" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="CABECERARes_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="COD_SERVICIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="APP_CONSUMIDORA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="TIP_RESPUESTA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="COD_RESPUESTA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DES_RESPUESTA" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cavali.com.pe/ib/esb/srv04003">
+      <s:import namespace="http://cavali.com.pe/ib/esb" />
+      <s:complexType name="Consumer_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="type" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="participantCode" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="ruc" type="s:integer" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InvoiceInformationAdditional_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="invoiceCode" type="s2:InvoiceCode_Type" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="expirationDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="department" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="province" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="district" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="addressSupplier" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="acqDepartment" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="acqProvince" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="acqDistrict" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="addressAcquirer" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="typePayment" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="numberQuota" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="deliverDateAcq" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="aceptedDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="paymentDate" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="netAmount" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="other1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="other2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="paymentDetail" type="s2:ArrayOfPayment_Type" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="additionalField1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="additionalField2" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InvoiceCode_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="providerRuc" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="series" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="numeration" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="authorizationNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="invoiceType" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfPayment_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="payment" type="s2:Payment_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Payment_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="number" type="s:integer" />
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="netAmount" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="paymentDate" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="MENSAJERES_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="INTEGRES" type="s2:INTEGRACIONRES_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="INTEGRACIONRES_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="CABECERA" type="s1:CABECERARes_Type" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DETALLE" type="s2:DETALLERes_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DETALLERes_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="DATOS" type="s2:DATOSRes_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DATOSRes_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="addInvoiceInformationResponse" type="s2:AddInvoiceInformationResponse_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AddInvoiceInformationResponse_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="addInvoiceInformationResponseDetail" type="s2:AddInvoiceInformationResponseDetail_Type" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AddInvoiceInformationResponseDetail_Type">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="idProceso" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="resultCode" type="s:integer" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RegistrarInfoAdicionalSoapIn">
+    <wsdl:part name="parameters" element="tns:RegistrarInfoAdicional" />
+  </wsdl:message>
+  <wsdl:message name="RegistrarInfoAdicionalSoapOut">
+    <wsdl:part name="parameters" element="tns:RegistrarInfoAdicionalResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_Dim_04003_Registrar_inf_adicionalSoap">
+    <wsdl:operation name="RegistrarInfoAdicional">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Servicio 04003</wsdl:documentation>
+      <wsdl:input message="tns:RegistrarInfoAdicionalSoapIn" />
+      <wsdl:output message="tns:RegistrarInfoAdicionalSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_Dim_04003_Registrar_inf_adicionalSoap" type="tns:WS_Dim_04003_Registrar_inf_adicionalSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegistrarInfoAdicional">
+      <soap:operation soapAction="http://cesion/RegistrarInfoAdicional" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_Dim_04003_Registrar_inf_adicionalSoap12" type="tns:WS_Dim_04003_Registrar_inf_adicionalSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegistrarInfoAdicional">
+      <soap12:operation soapAction="http://cesion/RegistrarInfoAdicional" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_Dim_04003_Registrar_inf_adicional">
+    <wsdl:port name="WS_Dim_04003_Registrar_inf_adicionalSoap" binding="tns:WS_Dim_04003_Registrar_inf_adicionalSoap">
+      <soap:address location="http://localhost:60674/WS_Dim_04003_Registrar_inf_adicional.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_Dim_04003_Registrar_inf_adicionalSoap12" binding="tns:WS_Dim_04003_Registrar_inf_adicionalSoap12">
+      <soap12:address location="http://localhost:60674/WS_Dim_04003_Registrar_inf_adicional.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
